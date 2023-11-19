@@ -1,2 +1,2 @@
 # myProject
-test prject
+test prject .
